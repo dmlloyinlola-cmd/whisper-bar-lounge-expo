@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Whisper Bar & Lounge",
+    "slug": "whisper-bar-lounge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "sdkVersion": "51.0.0",
+    "updates": { "enabled": true, "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.whisperbar.lounge"
+    }
+  }
+}
